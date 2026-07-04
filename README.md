@@ -1,4 +1,4 @@
-# 🤟 Sign Language to Text and Speech Translation System
+#  Sign Language to Text and Speech Translation System
 
 A real-time AI-powered system that recognizes sign language hand gestures using Computer Vision and Deep Learning, then converts them into text and speech. This project aims to bridge the communication gap between hearing-impaired individuals and others by providing an intelligent gesture recognition system.
 
